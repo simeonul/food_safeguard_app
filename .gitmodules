@@ -1,0 +1,9 @@
+[submodule "food_safeguard_frontend"]
+	path = food_safeguard_frontend
+	url = https://github.com/simeonul/food_safeguard_frontend.git
+[submodule "users_products_service"]
+	path = users_products_service
+	url = https://github.com/simeonul/users_products_service.git
+[submodule "barcode_reader_service"]
+	path = barcode_reader_service
+	url = https://github.com/simeonul/barcode_reader_service.git
